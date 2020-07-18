@@ -17,3 +17,4 @@ test {
     useTestNG()
 }
 ```
+4) В src-test-java создаем новый Java class в котором будет находиться первый тест. Пример теста для ChromeDriver можно взять тут: https://chromedriver.chromium.org/getting-started
